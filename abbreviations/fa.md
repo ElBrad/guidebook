@@ -8,16 +8,16 @@
 | BM      	  | Bootmail                    |
 | BR 		  | Booze Run                   |
 | FAQ     	  | Frequently Asked Questions  |
-| GTA      	  | Bootmail                    |
-| GF 		  | Booze Run                   |
-| HD    	  | Bullet Factory              |
-| IRC      	  | Bootmail                    |
-| OC 		  | Booze Run                   |
-| OTF     	  | Organized Crime             |
-| PI      	  | Bootmail                    |
-| SR 		  | Booze Run                   |
-| Stats     	  | Bullet Factory              |
-| TOS      	  | Bootmail                    |
+| GTA      	  | Auto Burglary                    |
+| GF 		  | Game Forum                   |
+| HD    	  | Help Desk              |
+| IRC      	  | Chat                    |
+| OC 		  | Organized Crime                   |
+| OTF     	  | Off Topic Forum             |
+| PI      	  | Private Investigator                    |
+| SR 		  | Shooting Range                   |
+| Stats     	  | Game Statistics              |
+| TOS      	  | Terms of Service                    |
 
 ---
 [Back to abbreviations](main.md)
