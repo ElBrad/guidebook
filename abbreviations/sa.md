@@ -4,10 +4,9 @@
 
 | **Abbreviation**|    **Meaning**    	        |
 |:--------------  |:---------------------------:|
-| Cali		  | California			|
-| Colo     	  | Colorodo       	        |
-| Illi     	  | Illinois                    |
-| Mich 		  | Michigan           		|
+| CA		  | California			|
+| IL     	  | Illinois                    |
+| MI 		  | Michigan           		|
 | NV     	  | Nevada	        	|
 | NJ      	  | New Jersey                  |
 | NY 		  | New York                    |
